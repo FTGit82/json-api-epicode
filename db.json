@@ -9,6 +9,11 @@
       "id" : 1,
       "title": "Second post!",
       "content" : "My Second content!"
+    },
+    {
+      "id" : 2,
+      "title": "Second post!",
+      "content" : "My Second content!"
     }
   ],
   "comments" : [
