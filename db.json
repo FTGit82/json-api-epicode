@@ -21,7 +21,7 @@
     },
     {
       "id": 1,
-      "name": "Giuseppe Verdi",
+      "name": "Maria Verdi",
       "qualification": "Avvocato Tributarista e Civilista",
       "img":"./assets/avv2.jpg",
       "city": "Salerno",
@@ -38,6 +38,6 @@
       "training":"Ho partecipato a decine di corsi di formazione continua in materia di diritto civile, di famiglia, processuale civile, diritto di famiglia e diritto tributario.",
       "biography":"Mi occupo prevalentemente di: diritto assicurativo e responsabilità civile, recupero crediti e sfratti, diritto condominiale e diritti reali, diritto fallimentare, diritto commerciale e societario (con specializzazione in diritto bancario e finanziario), separazioni e divorzi, revisioni di assegni di mantenimento e contributi economici ai figli."
     }
-    
+
   ] 
 }
