@@ -152,6 +152,29 @@
       "training":"Ho partecipato a decine di corsi di formazione continua in materia di diritto civile, di famiglia, processuale civile, diritto di famiglia e diritto tributario.",
       "biography":"Mi occupo prevalentemente di: diritto assicurativo e responsabilità civile, recupero crediti e sfratti, diritto condominiale e diritti reali, diritto fallimentare, diritto commerciale e societario (con specializzazione in diritto bancario e finanziario), separazioni e divorzi, revisioni di assegni di mantenimento e contributi economici ai figli."
     }
+  ],
 
-  ] 
+  "articles": [
+    {
+      "id": 0,
+      "title": "Toyota Rav4: grintosa, anche nello stile",
+      "data": "12/10/2023",
+      "img":"avv1.jpg",
+      "description": "In vendita dal 2019, la Toyota Rav4 è una confortevole suv media ibrida proposta sia con la trazione anteriore sia con quella 4x4 (garantita da un secondo motore elettrico al retrotreno). Sono tutte a trazione integrale le varianti plug-in PHEV, arrivate nel 2021 e che si differenziano per la capiente batteria da 18,1 kWh ricaricabile anche via cavo, che permette di muoversi per 75 chilometri con la sola spinta garantita dall’elettricità. Ora è il momento di una dotazione ampliata e del nuovo allestimento GR Sport (GR sta per Gazoo Racing, il comparto della casa che segue le competizioni e realizza le auto più prestazionali). "
+    },
+    {
+      "id": 1,
+      "title": "Toyota Rav4: grintosa, anche nello stile",
+      "data": "12/10/2023",
+      "img":"avv1.jpg",
+      "description": "In vendita dal 2019, la Toyota Rav4 è una confortevole suv media ibrida proposta sia con la trazione anteriore sia con quella 4x4 (garantita da un secondo motore elettrico al retrotreno). Sono tutte a trazione integrale le varianti plug-in PHEV, arrivate nel 2021 e che si differenziano per la capiente batteria da 18,1 kWh ricaricabile anche via cavo, che permette di muoversi per 75 chilometri con la sola spinta garantita dall’elettricità. Ora è il momento di una dotazione ampliata e del nuovo allestimento GR Sport (GR sta per Gazoo Racing, il comparto della casa che segue le competizioni e realizza le auto più prestazionali). "
+    },
+    {
+      "id": 2,
+      "title": "Toyota Rav4: grintosa, anche nello stile",
+      "data": "12/10/2023",
+      "img":"avv1.jpg",
+      "description": "In vendita dal 2019, la Toyota Rav4 è una confortevole suv media ibrida proposta sia con la trazione anteriore sia con quella 4x4 (garantita da un secondo motore elettrico al retrotreno). Sono tutte a trazione integrale le varianti plug-in PHEV, arrivate nel 2021 e che si differenziano per la capiente batteria da 18,1 kWh ricaricabile anche via cavo, che permette di muoversi per 75 chilometri con la sola spinta garantita dall’elettricità. Ora è il momento di una dotazione ampliata e del nuovo allestimento GR Sport (GR sta per Gazoo Racing, il comparto della casa che segue le competizioni e realizza le auto più prestazionali). "
+    }   
+  ]   
 }
