@@ -12,7 +12,7 @@
                   "Diritto bancario e dei mercati finanziari", "Diritto commerciale e societario"],
       "services": {
         "written": true,
-        "preventive": false,
+        "preventive": true,
         "call": true,
         "videocall": true
       },
@@ -33,7 +33,7 @@
         "written": true,
         "preventive": false,
         "call": true,
-        "videocall": true
+        "videocall": false
       },
       "training":"Ho partecipato a decine di corsi di formazione continua in materia di diritto civile, di famiglia, processuale civile, diritto di famiglia e diritto tributario.",
       "biography":"Mi occupo prevalentemente di: diritto assicurativo e responsabilità civile, recupero crediti e sfratti, diritto condominiale e diritti reali, diritto fallimentare, diritto commerciale e societario (con specializzazione in diritto bancario e finanziario), separazioni e divorzi, revisioni di assegni di mantenimento e contributi economici ai figli."
@@ -69,7 +69,7 @@
                   "Diritto bancario e dei mercati finanziari", "Diritto commerciale e societario"],
       "services": {
         "written": true,
-        "preventive": false,
+        "preventive": true,
         "call": true,
         "videocall": true
       },
@@ -88,7 +88,7 @@
                   "Diritto bancario e dei mercati finanziari", "Diritto commerciale e societario"],
       "services": {
         "written": true,
-        "preventive": false,
+        "preventive": true,
         "call": true,
         "videocall": true
       },
@@ -108,7 +108,7 @@
       "services": {
         "written": true,
         "preventive": false,
-        "call": true,
+        "call": false,
         "videocall": true
       },
       "training":"Ho partecipato a decine di corsi di formazione continua in materia di diritto civile, di famiglia, processuale civile, diritto di famiglia e diritto tributario.",
@@ -128,7 +128,7 @@
         "written": true,
         "preventive": false,
         "call": true,
-        "videocall": true
+        "videocall": false
       },
       "training":"Ho partecipato a decine di corsi di formazione continua in materia di diritto civile, di famiglia, processuale civile, diritto di famiglia e diritto tributario.",
       "biography":"Mi occupo prevalentemente di: diritto assicurativo e responsabilità civile, recupero crediti e sfratti, diritto condominiale e diritti reali, diritto fallimentare, diritto commerciale e societario (con specializzazione in diritto bancario e finanziario), separazioni e divorzi, revisioni di assegni di mantenimento e contributi economici ai figli."
@@ -144,7 +144,7 @@
                   "Responsabilità civile, professionale e assicurazioni",  "Separazioni e Divorzi", "Diritto della crisi di impresa e della insolvenza (fallimento)",
                   "Diritto bancario e dei mercati finanziari", "Diritto commerciale e societario"],
       "services": {
-        "written": true,
+        "written": false,
         "preventive": false,
         "call": true,
         "videocall": true
